@@ -1,1 +1,1 @@
-https://kata-blog-alpha.vercel.app/
+https://blog-kata-gold.vercel.app/
